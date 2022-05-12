@@ -1,0 +1,73 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "ingresa a la mazmorra",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "Norte",
+          "slots": [],
+          "samples": [
+            "Norte",
+            "Al norte"
+          ]
+        },
+        {
+          "name": "Este",
+          "slots": [],
+          "samples": [
+            "Este"
+          ]
+        },
+        {
+          "name": "Sur",
+          "slots": [],
+          "samples": [
+            "Sur"
+          ]
+        },
+        {
+          "name": "Oeste",
+          "slots": [],
+          "samples": [
+            "Oeste"
+          ]
+        },
+        {
+          "name": "IniciarPartida",
+          "slots": [],
+          "samples": [
+            "Inicia",
+            "Inicia partida",
+            "Inicia una partida",
+            "Comienza",
+            "Comienza una partida",
+            "Empiza una partida",
+            "Empieza"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "7"
+}
